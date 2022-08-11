@@ -1,12 +1,6 @@
 - 👋 Hi, I’m Paul Duvenage
 - Born in South Africa but living in the Netherlands. Civil engineer turned data engineer
 
-- 👀 I’m interested in all things Data
-- 🌱 I’m currently learning Azure Cloud Environment, Airflow & PySpark, 
-- Love me some Python and the goal is to automate everything!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 #### Languages & Tools:
 ![HTML5](https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
