@@ -9,5 +9,8 @@
 duvenagep/duvenagep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvenagep&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=duvenagep)](https://github.com/pranesh-2005/github-readme-stats-fast)
+--->
